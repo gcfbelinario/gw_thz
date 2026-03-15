@@ -1,1 +1,1 @@
-Applications of Terahertz Interferometry in Lensing of Gravitational Waves
+THz-TDS and GW Lensing Analog
